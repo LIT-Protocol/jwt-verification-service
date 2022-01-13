@@ -1,6 +1,6 @@
 # Lit JWT Verification Service
 
-This is a Cloudflare worker that has a single purpose: to verify Lit Network JWTs in environments where there is no other way to verify them. This includes places like PHP where there is no BLS signature library.
+This is a Cloudflare worker that has a single purpose: to verify Lit Network JWTs in environments where there is no other way to verify them. This includes places like PHP where there is no BLS signature library. You do not need to deploy your own worker, and are welcome to use ours at `https://jwt-verification-service.lit-protocol.workers.dev`.
 
 ## How to use
 
