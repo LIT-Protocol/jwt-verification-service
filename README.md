@@ -8,6 +8,8 @@ You can make a request to this service with a JWT signed by Lit Network. You may
 
 ### Requests
 
+The base URL for this service is `https://jwt-verification-service.lit-protocol.workers.dev`
+
 Example GET request with a JWT in the url:
 
 ```
